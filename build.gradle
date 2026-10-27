@@ -1,1 +1,2 @@
-// Root build file
+rootProject.name = "ff-overlay"
+include ':app'
